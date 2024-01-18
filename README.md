@@ -6,10 +6,10 @@ This repository contains multiple branches, each incorporating the name of the r
 ## Branches
 
 ### Optiver_Trading-at-the-Close
-_ **Optiver_Trading-at-the-Close**: [ipynb files excluding the models](https://github.com/chanleee/Kaggle/tree/Optiver_Trading-at-the-Close)
-_ **Optiver_Trading-at-the-Close_CNNs**: [CNN models](https://github.com/chanleee/Kaggle/tree/Optiver_Trading-at-the-Close_CNNs)
-_ **Optiver_Trading-at-the-Close_LGBs**: [LGB models](https://github.com/chanleee/Kaggle/tree/Optiver_Trading-at-the-Close_LGBs)
-_ **Optiver_Trading-at-the-Close_Transformer**: [Transformer model](https://github.com/chanleee/Kaggle/tree/Optiver_Trading-at-the-Close_Transformer)
+_ **Optiver_Trading-at-the-Close**: [ipynb files excluding the models](https://github.com/chanleee/Kaggle/tree/Optiver_Trading-at-the-Close)<br>
+_ **Optiver_Trading-at-the-Close_CNNs**: [CNN models](https://github.com/chanleee/Kaggle/tree/Optiver_Trading-at-the-Close_CNNs)<br>
+_ **Optiver_Trading-at-the-Close_LGBs**: [LGB models](https://github.com/chanleee/Kaggle/tree/Optiver_Trading-at-the-Close_LGBs)<br>
+_ **Optiver_Trading-at-the-Close_Transformer**: [Transformer model](https://github.com/chanleee/Kaggle/tree/Optiver_Trading-at-the-Close_Transformer)<br>
 
 ### Predict-Health-Outcomes-of-Horses
 _ **Predict-Health-Outcomes-of-Horses**: [ipynb files](https://github.com/chanleee/Kaggle/tree/Predict-Health-Outcomes-of-Horses)
