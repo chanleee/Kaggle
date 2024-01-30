@@ -17,9 +17,6 @@ _ **Predict-Health-Outcomes-of-Horses**: [ipynb files](https://github.com/chanle
 ### Binary-Prediction-of-Smoker-Status
 _ **Binary-Prediction-of-Smoker-Status**: [ipynb file](https://github.com/chanleee/Kaggle/tree/Binary-Prediction-of-Smoker-Status)
 
-### NeurIPS-2023_Machine-Unlearning
-_ **NeurIPS-2023_Machine-Unlearning**: [ipynb file](https://github.com/chanleee/Kaggle/tree/NeurIPS-2023_Machine-Unlearning)
-
 ### Binary-Classification-with-a-Software-Defects-Dataset
 _ **Binary-Classification-with-a-Software-Defects-Dataset**: [ipynb file](https://github.com/chanleee/Kaggle/tree/Binary-Classification-with-a-Software-Defects-Dataset)
 
