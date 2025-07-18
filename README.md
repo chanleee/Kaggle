@@ -1,6 +1,5 @@
 # Kaggle
-I am revealing some of the code I used on Kaggle here. Since the data is provided by Kaggle, I am not uploading it as much as possible due to permission issues.
-
+This is the repository where I uploaded the solution codes I developed for Kaggle competitions.
 This repository contains multiple branches, each incorporating the name of the related competition in its name.
 
 ## Branches
