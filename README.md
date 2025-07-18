@@ -1,5 +1,5 @@
 # Kaggle
-This is the repository where I uploaded the solution codes I developed for Kaggle competitions.
+This is the repository where I uploaded the solution codes I developed for Kaggle competitions. <br>
 This repository contains multiple branches, each incorporating the name of the related competition in its name.
 
 ## Branches
