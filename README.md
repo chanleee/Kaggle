@@ -1,5 +1,5 @@
 # Kaggle
-I am revealing some of the code I used on Kaggle here. Since the data is provided by Kaggle, I am not uploading it as much as possible due to permission issues.
+This is the repository where I uploaded the solution codes I developed for Kaggle competitions.
 
 This repository contains multiple branches, each incorporating the name of the related competition in its name.
 
@@ -23,5 +23,4 @@ _ **Binary-Prediction-of-Smoker-Status**: [ipynb file](https://github.com/chanle
 _ **Binary-Classification-with-a-Software-Defects-Dataset**: [ipynb file](https://github.com/chanleee/Kaggle/tree/Binary-Classification-with-a-Software-Defects-Dataset)
 
 ## Precautions
-
-This repository contains code that has been developed by me or our team from start to finish, as well as code that has not. (This is because, given the nature of Kaggle competitions, there are instances where it is more beneficial to utilize code shared as public notebooks.) Please bear this in mind when reviewing the code.
+This repository includes code that was fully developed by me or my team, as well as code that was partially based on publicly available notebooks. Given the nature of Kaggle competitions, using shared resources can sometimes be more advantageous. Please keep this in mind when reviewing the code.
